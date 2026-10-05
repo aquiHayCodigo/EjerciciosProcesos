@@ -1,0 +1,2 @@
+Error: El archivo "archivoPalabras.txt" no existe.
+
